@@ -102,8 +102,8 @@ A maker at heart — I build mobile-first experiences, developer tools, and prod
 
 <p align="center">
   <!-- GitHub stats (animated feel) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Urjit-Upadhya&show_icons=true&count_private=true&theme=radical&hide_border=true" height="160" alt="Urjit GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Urjit-Upadhya&theme=radical&hide_border=true" height="160" alt="Urjit Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=urjitupadhya&show_icons=true&count_private=true&theme=radical&hide_border=true" height="160" alt="Urjit GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=urjitupadhya&theme=radical&hide_border=true" height="160" alt="Urjit Streak"/>
   <br/>
   <!-- Activity graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Urjit-Upadhya&theme=react-dark&hide_border=true" alt="activity graph"/>
