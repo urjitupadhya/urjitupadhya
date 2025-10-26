@@ -102,14 +102,14 @@ A maker at heart — I build mobile-first experiences, developer tools, and prod
 
 <p align="center">
   <!-- GitHub stats (animated feel) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Urjit-Upadhyay&show_icons=true&count_private=true&theme=radical&hide_border=true" height="160" alt="Urjit GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Urjit-Upadhyay&theme=radical&hide_border=true" height="160" alt="Urjit Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Urjit-Upadhya&show_icons=true&count_private=true&theme=radical&hide_border=true" height="160" alt="Urjit GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Urjit-Upadhya&theme=radical&hide_border=true" height="160" alt="Urjit Streak"/>
   <br/>
   <!-- Activity graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Urjit-Upadhyay&theme=react-dark&hide_border=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Urjit-Upadhya&theme=react-dark&hide_border=true" alt="activity graph"/>
   <br/>
   <!-- Visitor counter -->
-  <img src="https://komarev.com/ghpvc/?username=Urjit-Upadhyay&color=blue" alt="visitor counter" />
+  <img src="https://komarev.com/ghpvc/?username=Urjit-Upadhya&color=blue" alt="visitor counter" />
 </p>
 
 ---
@@ -120,16 +120,3 @@ A maker at heart — I build mobile-first experiences, developer tools, and prod
   <a href="mailto:urjit@example.com" title="Email">✉️ Email</a> •
   <a href="https://www.linkedin.com/in/urjit-upadhyay" title="LinkedIn">🔗 LinkedIn</a>
 </p>
-
-> Replace `urjit@example.com` with your real email or remove the mailto line if you prefer.
-
----
-
-## 🔭 Want this READMe to look even better?
-I can:
-- Add animated GIF demo previews for each project (I’ll embed short GIFs of your apps/extensions).  
-- Produce a dark & light variant and a custom cover banner image for the top.  
-- Automatically generate repo cards with live stars, forks & language breakdowns.  
-- Add language usage card (Top languages by repo) and contributions heatmap snapshot.
-
-If you want any of the above, tell me which feature(s) and I’ll give you the updated README with assets and final link-ready badges. 💙✨
