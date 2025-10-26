@@ -72,7 +72,7 @@ I'm a passionate **Flutter & Blockchain Developer** with a knack for building **
 <p align="center">
   <a href="https://urjitupadhyayportfolioo-five.vercel.app/">🌐 Portfolio</a> &nbsp;•&nbsp;
   <a href="mailto:urjit@example.com">✉️ Email</a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/urjit-upadhyay">🔗 LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/urjit-upadhyay-049428236">🔗 LinkedIn</a> &nbsp;•&nbsp;
   <a href="https://github.com/urjitupadhya">💻 GitHub</a>
 </p>
 
