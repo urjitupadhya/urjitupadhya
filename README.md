@@ -16,7 +16,7 @@
   <a href="https://urjitupadhyayportfolioo-five.vercel.app/" title="Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-View%20Site-1e293b?style=for-the-badge&logo=vercel" />
   </a>
-  <a href="https://www.linkedin.com/in/urjit-upadhyay" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/urjit-upadhyay](https://www.linkedin.com/in/urjit-upadhyay-049428236/" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/Urjit-Upadhyay" title="GitHub">
