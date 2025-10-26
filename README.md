@@ -39,11 +39,11 @@ Git • GitHub • Postman • API Integrations
 
 <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=urjitupadhyay&theme=algolia&no-bg=true&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=urjitupadhya&theme=algolia&no-bg=true&margin-w=8" />
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=urjitupadhyay&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=urjitupadhya&theme=react-dark" />
 
 </p>
 
