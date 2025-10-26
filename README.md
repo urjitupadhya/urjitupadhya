@@ -33,9 +33,9 @@ Git • GitHub • Postman • API Integrations
 
 <p align="center">
   
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=urjitupadhyay&show_icons=true&theme=react&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=urjitupadhya&show_icons=true&theme=react&hide_border=true&count_private=true" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=urjitupadhyay&theme=react&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=urjitupadhya&theme=react&hide_border=true" />
 
 <br />
 
