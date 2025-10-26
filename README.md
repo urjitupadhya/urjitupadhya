@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/urjit-upadhyay](https://www.linkedin.com/in/urjit-upadhyay-049428236/" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/Urjit-Upadhyay" title="GitHub">
+  <a href="https://github.com/urjitupadhya" title="GitHub">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
