@@ -88,11 +88,11 @@ A maker at heart — I build mobile-first experiences, developer tools, and prod
 ---
 
 ## 🎛 Projects Quick Links (copy/paste)
-- BeFocused Extension — `https://github.com/Urjit-Upadhyay/BeFocused`  
-- Next.js Resume Builder — `https://github.com/Urjit-Upadhyay/resume-builder`  
-- OneKey-Deploy CLI — `https://github.com/Urjit-Upadhyay/onekey-deploy`  
-- E-Vote — `https://github.com/Urjit-Upadhyay/evote`  
-- Career Finder — `https://github.com/Urjit-Upadhyay/career-finder`  
+- BeFocused Extension — `https://github.com/urjiupadhya/BeFocused`  
+- Next.js Resume Builder — `https://github.com/urjiupadhya/resume-builder`  
+- OneKey-Deploy CLI — `https://github.com/urjiupadhya/onekey-deploy`  
+- E-Vote — `https://github.com/urjiupadhya/evote`  
+- Career Finder — `https://github.com/urjiupadhya/career-finder`  
 
 *(Replace the URLs above with the actual repo links if they differ.)*
 
@@ -106,7 +106,7 @@ A maker at heart — I build mobile-first experiences, developer tools, and prod
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=urjitupadhya&theme=radical&hide_border=true" height="160" alt="Urjit Streak"/>
   <br/>
   <!-- Activity graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Urjit-Upadhya&theme=react-dark&hide_border=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urjitupadhya&theme=react-dark&hide_border=true" alt="activity graph"/>
   <br/>
   <!-- Visitor counter -->
   <img src="https://komarev.com/ghpvc/?username=Urjit-Upadhya&color=blue" alt="visitor counter" />
