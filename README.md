@@ -1,84 +1,131 @@
-<!-- ===================== -->
-<!--  Urjit Upadhyay README -->
-<!-- ===================== -->
+<!-- ===================== --> <!-- Urjit Upadhyay README --> <!-- ===================== --> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=38&duration=3500&pause=500&color=00A9FF&center=true&vCenter=true&width=820&lines=Hey%2C+I'm+Urjit+Upadhyay!;Flutter+%26+Blockchain+Innovator;DSA+Practitioner+%7C+Problem+Solver;Crafting+Impactful+Digital+Experiences" alt="Typing SVG"/> <br/>
+Show Image
+Show Image
+Show Image
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=38&duration=3500&pause=500&color=00A9FF&center=true&vCenter=true&width=820&lines=Hey%2C+I'm+Urjit+Upadhyay!;Flutter+%26+Blockchain+Innovator;Crafting+Impactful+Digital+Experiences" alt="Typing SVG"/>
+</div>
+<div align="center">
+Show Image
+Show Image
+Show Image
 
-  <br/>
-  <img src="https://img.shields.io/badge/Status-Building%20Daily-0ea5e9?style=for-the-badge&logo=codeigniter&logoColor=white" alt="status" />
-  <img src="https://img.shields.io/badge/Vibe-✨%20Creative-FFD700?style=for-the-badge" alt="vibe" />
-</p>
+</div>
+🚀 About Me
+typescript
+const urjit = {
+  role: "Flutter & Blockchain Developer | DSA Practitioner",
+  location: "Aligarh, Uttar Pradesh, India 🇮🇳",
+  currentFocus: [
+    "Building production-ready mobile applications",
+    "Mastering Data Structures & Algorithms",
+    "Exploring Web3 & Blockchain technologies",
+    "Creating developer productivity tools"
+  ],
+  dailyRoutine: {
+    morning: "DSA practice & problem solving",
+    afternoon: "Flutter development & building projects",
+    evening: "Learning blockchain & AI integration"
+  },
+  funFacts: ["Bike enthusiast 🏍️", "Nature lover 🌳", "Clean code advocate 💎"]
+};
+<div align="center">
+🎯 Current Mission
+Evolving into a top-tier Software Development Engineer while mastering algorithmic problem-solving and building impactful products
 
----
+</div>
+🛠️ Tech Arsenal
+<div align="center">
+📱 Mobile & Frontend
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 
-<p align="center">
-  <a href="https://urjitupadhyayportfolioo-five.vercel.app/" title="Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-1e293b?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/urjit-upadhyay-049428236/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/urjitupadhya" title="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-See%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+⚙️ Backend & Blockchain
+Show Image
+Show Image
+Show Image
+Show Image
 
----
+🗄️ Databases & Cloud
+Show Image
+Show Image
+Show Image
+Show Image
 
-## 🚀 About Me
+🧠 DSA & Problem Solving
+Show Image
+Show Image
+Show Image
 
-I'm a passionate **Flutter & Blockchain Developer** with a knack for building **mobile-first experiences**, **developer tools**, and **productivity solutions**. I blend sleek Flutter UIs with robust Node.js backends, fueled by curiosity in **blockchain** and **AI**.
+</div>
+📊 GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=urjitupadhya&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A9FF&icon_color=00A9FF&text_color=C9D1D9" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=urjitupadhya&theme=tokyonight&hide_border=true&background=0D1117&ring=00A9FF&fire=00A9FF&currStreakLabel=00A9FF" height="170"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urjitupadhya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A9FF&text_color=C9D1D9&langs_count=8" height="170"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=urjitupadhya&theme=tokyonight&utcOffset=5.5" height="170"/>
+<br/><br/>
 
-- 🔭 **Working on**: Resume Builder, Browser Extensions, CLI Tools  
-- 🎯 **Goal**: Evolve into a top-tier SDE and product innovator  
-- 🌱 **Learning**: AI-driven apps and secure scaling solutions  
-- ⚡ **Loves**: Bikes 🏍️, nature 🌳, fast code 🚀, and clean UX 🎨
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=urjitupadhya&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=0D1117&color=00A9FF&line=00A9FF&point=FFFFFF" />
+<br/><br/>
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=urjitupadhya&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+<br/><br/>
 
-## 🛠️ Tech Stack
+Show Image
+Show Image
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square" />&nbsp;
-  <br/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat-square" />
-</p>
+</div>
+🌟 Featured Projects
+<div align="center">
+Project	Description	Tech Stack
+🎨 Resume Builder	AI-powered resume creation tool	Flutter, Node.js, MongoDB
+🔗 Blockchain Wallet	Secure crypto wallet application	Flutter, Web3, Solidity
+🚀 Developer CLI	Productivity tool for developers	Node.js, TypeScript
+📱 E-Commerce App	Full-stack mobile marketplace	Flutter, Firebase, Stripe
+View All Projects →
 
----
+</div>
+💡 What I'm Working On
+javascript
+const currentGoals = {
+  technical: {
+    dsa: "Solving 150+ LeetCode problems across all difficulty levels",
+    development: "Building 5 production-ready full-stack applications",
+    blockchain: "Developing smart contracts and DApps on Ethereum"
+  },
+  learning: [
+    "Advanced Flutter animations and custom widgets",
+    "System design patterns and scalable architectures",
+    "AI/ML integration in mobile applications",
+    "Web3 security best practices"
+  ],
+  upcoming: "Contributing to open-source Flutter and blockchain projects"
+};
+📈 Coding Activity
+<div align="center">
+Show Image
 
-## 📊 GitHub Stats
+</div>
+🤝 Let's Connect & Collaborate
+<div align="center">
+Open to freelance projects, collaborations, and interesting opportunities!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=urjitupadhya&show_icons=true&count_private=true&theme=dracula&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=urjitupadhya&theme=dracula&hide_border=true" height="160"/>
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urjitupadhya&theme=dracula&hide_border=true&area=true" />
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=urjitupadhya&style=flat-square&color=00A9FF" alt="profile views" />
-</p>
+<br/>
+Show Image
+Show Image
+Show Image
+Show Image
 
----
+</div>
+<div align="center">
+💭 Developer Quote
+Show Image
 
-## 📬 Connect with Me
+<br/>
+⭐ If you find my work interesting, consider starring my repositories!
 
-<p align="center">
-  <a href="https://urjitupadhyayportfolioo-five.vercel.app/">🌐 Portfolio</a> &nbsp;•&nbsp;
-  <a href="mailto:urjit@example.com">✉️ Email</a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/urjit-upadhyay-049428236">🔗 LinkedIn</a> &nbsp;•&nbsp;
-  <a href="https://github.com/urjitupadhya">💻 GitHub</a>
-</p>
+<br/> ``` while (alive) { code(); learn(); solve(); build(); } ``` <br/>
+Made with ❤️ and ☕ by Urjit Upadhyay
 
----
+Show Image
 
-<p align="center">
-  <b>⭐ Star my repos if you like my work!</b> <br/>
-  Always coding, learning, and leveling up! 🚀
-</p>
+</div>
