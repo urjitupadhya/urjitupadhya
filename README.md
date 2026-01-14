@@ -102,7 +102,7 @@ Flutter & Blockchain developer passionate about crafting **beautiful mobile expe
 
 ## 🎯 Current Focus
 
-- Solving **150+ LeetCode** problems (all difficulties)
+- Solving **100+ LeetCode** problems (all difficulties)
 - Building **5 production-ready** full-stack apps
 - Developing **smart contracts** & **DApps** on Ethereum
 - Mastering **advanced Flutter animations**, **custom widgets**
