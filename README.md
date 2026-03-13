@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://urjitupadhyayportfolioo-five.vercel.app/">
+  <a href="https://urjit-upadhyay-portfolio-updated-d5.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/urjit-upadhyay-049428236/">
