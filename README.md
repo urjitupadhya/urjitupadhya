@@ -1,10 +1,9 @@
-<!-- Animated header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,50:8b5cf6,100:00d4ff&text=Urjit%20Upadhyay&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20AI%20%26%20Web3&descAlignY=58&descSize=20&animation=fadeIn" alt="header"/>
+  <img src="assets/header.svg" width="100%" alt="Urjit Upadhyay - Software Developer"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3200&pause=700&color=00D4FF&center=true&vCenter=true&width=900&lines=Software+Developer+%40+GoStride+Ventures+%F0%9F%87%A6%F0%9F%87%AA;7x+Hackathon+Winner+%F0%9F%8F%86;Building+ERP+%7C+AI%2FML+%7C+Flutter+%7C+Blockchain;Shipping+production+code+across+4+countries;Open+to+Graduate+Trainee+%2F+SDE+roles" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=900&height=50&lines=Software+Developer+%40+GoStride+Ventures;7x+Hackathon+Winner;FastAPI+%7C+React+%7C+Flutter+%7C+Solidity;Open+to+Graduate+Trainee+%2F+SDE+roles" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -19,45 +18,61 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Working%20%40%20GoStride%20Ventures-10b981?style=flat-square" alt="Status"/>
-  <img src="https://img.shields.io/badge/Hackathons-7x%20Winner-fbbf24?style=flat-square&logo=devpost&logoColor=white" alt="Hackathons"/>
-  <img src="https://img.shields.io/badge/B.Tech%20CPI-8.35%2F10-8b5cf6?style=flat-square" alt="CPI"/>
-  <img src="https://img.shields.io/badge/Diploma-9.97%2F10%20%7C%20Univ.%20Rank%202-ff6b6b?style=flat-square" alt="Diploma"/>
-  <img src="https://img.shields.io/badge/Oracle%20Cloud-AI%20Foundations%20Associate-F80000?style=flat-square&logo=oracle&logoColor=white" alt="OCI"/>
+  <img src="assets/stats.svg" width="100%" alt="Key numbers"/>
 </div>
 
 <br/>
 
+<div align="center">
+  <img src="assets/terminal.svg" width="80%" alt="Terminal intro"/>
+</div>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## ⚡ Recruiter Quick View
+
+| | |
+|---|---|
+| **Role** | Software Developer, GoStride Ventures (converted from intern to full-time) |
+| **Education** | B.Tech Computer Engineering, Aligarh Muslim University (CPI 8.35/10). Diploma CGPA 9.97/10, University Rank 2 |
+| **Core stack** | Python, FastAPI, React, TypeScript, Docker, PostgreSQL, MongoDB |
+| **Also** | Flutter/Dart, Next.js, Solidity, applied ML and Generative AI |
+| **Proof** | 7x hackathon winner, F1 0.943 ML system with 71 tests, ERP modules in production |
+| **Certified** | Oracle Cloud Infrastructure (OCI) AI Foundations Associate |
+| **Looking for** | Graduate Trainee / SDE roles |
+| **Location** | Aligarh, Uttar Pradesh, India (open to relocation and remote) |
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
 ## 👋 About Me
 
-Computer Engineering student at **Aligarh Muslim University** who already ships production software for companies in **UAE, Canada and India**. I build backend-heavy, AI-powered and cross-platform products, and I turn requirements into reliable, tested code, fast (one of my hackathon wins was built end-to-end in **72 hours**).
+I'm a Computer Engineering student who already ships production software for teams in **India, the UAE and Canada**. I build backend-heavy, AI-powered and cross-platform products, and I turn requirements into reliable, tested code quickly. One of my hackathon wins went from idea to deployed demo in **72 hours**.
 
-- 💼 **Software Developer** at GoStride Ventures, converted from intern to full-time
-- 🏭 Interned at **NTPC Limited** (Corporate Centre, New Delhi) and built **SCADA** software at Temflo Systems
+- 💼 **Software Developer** at GoStride Ventures, building multi-tenant ERP modules
+- 🏭 Interned at **NTPC Limited** (Corporate Centre) and built **SCADA** monitoring software at Temflo Systems
 - 🏆 **7x Hackathon Winner**, including 1st place at **Slop Scan** and **Dreamware** ($1000)
-- 🎓 Workshop Lead at **GDGC ZHCET**, teaching Flutter to fellow students
-- 📍 Aligarh, Uttar Pradesh, India 🇮🇳
-- 🎯 Looking for: **Graduate Trainee / SDE roles** where I can own real features
+- 🎓 **Workshop Lead** at GDGC ZHCET, teaching Flutter to fellow students
+- ⚡ Off-screen: bike rides, nature escapes and clean code
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 💼 Experience
 
 ```text
- 2026 Jul ─► Present   Software Developer ........ GoStride Ventures (Dubai, UAE · Remote)
- 2026 Jun ─► 2026 Jul  Software Dev Intern ....... NTPC Limited (New Delhi)
- 2026 Mar ─► 2026 Jun  Software Dev Intern ....... Second Plate Inc. (Toronto, Canada · Remote)
- 2025 Dec ─► 2026 Feb  SDE Intern ................ Temflo Systems Pvt. Ltd. (Remote)
+ Jul 2026 ─► Present    Software Developer ... GoStride Ventures    (Dubai, UAE · Remote)
+ Jun 2026 ─► Jul 2026   Software Dev Intern .. NTPC Limited         (New Delhi)
+ Mar 2026 ─► Jun 2026   Software Dev Intern .. Second Plate Inc.    (Toronto, Canada · Remote)
+ Dec 2025 ─► Feb 2026   SDE Intern ........... Temflo Systems       (Remote)
 ```
 
 | Company | What I did |
 |---|---|
-| **GoStride Ventures** 🇦🇪 | Building enterprise ERP modules (FastAPI, Python, React, TypeScript) for a multi-tenant SaaS platform. Docker-based microservices for auth, billing and ERP workflows. |
-| **NTPC Limited** 🇮🇳 | Worked under the DGM of IT at the Corporate Centre on enterprise IT systems, monitoring workflows and reliability operations in the power sector. |
-| **Second Plate Inc.** 🇨🇦 | Shipped cross-platform features on REST APIs for a live food-redistribution platform. End-to-end debugging, QA and performance troubleshooting. |
-| **Temflo Systems** 🇮🇳 | Built and maintained real-time SCADA-based industrial control and monitoring software, with testing, documentation and security practices. |
+| **GoStride Ventures** | Building enterprise ERP modules with FastAPI, Python, React and TypeScript for a multi-tenant SaaS platform. Docker-based microservices for authentication, billing and ERP workflows. |
+| **NTPC Limited** | Worked under the DGM of IT at the Corporate Centre on enterprise IT systems, monitoring workflows and reliability operations in the power sector. |
+| **Second Plate Inc.** | Shipped cross-platform features on REST APIs for a live food-redistribution platform. End-to-end debugging, QA and performance troubleshooting. |
+| **Temflo Systems** | Built and maintained real-time SCADA-based industrial control and monitoring software, with testing, documentation and security practices. |
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🛠️ Tech Stack
 
@@ -65,19 +80,19 @@ Computer Engineering student at **Aligarh Muslim University** who already ships 
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,java,dart,c,cpp,postgres&theme=dark" alt="languages"/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,dart,c,cpp&theme=dark" alt="languages"/>
 
-**Backend & Data**
+**Backend and Data**
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,postgres,firebase,docker&theme=dark" alt="backend"/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,firebase,docker&theme=dark" alt="backend"/>
 
-**Frontend & Mobile**
+**Frontend and Mobile**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,vercel&theme=dark" alt="frontend"/>
 
-**Tools, Cloud & Web3**
+**Tools, Cloud and Web3**
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,solidity,oci&theme=dark" alt="tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,solidity&theme=dark" alt="tools"/>
 
 </div>
 
@@ -92,7 +107,7 @@ Computer Engineering student at **Aligarh Muslim University** who already ships 
 
 </details>
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🚀 Featured Projects
 
@@ -100,7 +115,7 @@ Computer Engineering student at **Aligarh Muslim University** who already ships 
   <tr>
     <td width="50%" valign="top">
       <h3>🛡️ SlopGuard 🥇</h3>
-      <p><b>Applied ML quality-detection system.</b> Evaluates content quality and flagged real GitHub pull requests with an <b>F1 score of 0.943</b> on 188 PRs, backed by <b>71 passing tests</b>. Data pipeline, inference API and UI delivered in <b>72 hours</b>.</p>
+      <p><b>Applied ML quality-detection system.</b> Scored an <b>F1 of 0.943</b> on 188 real GitHub pull requests, backed by <b>71 passing tests</b>. Data processing, inference API and UI delivered in <b>72 hours</b>.</p>
       <p><i>1st Place, Slop Scan Hackathon</i></p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
@@ -129,7 +144,7 @@ Computer Engineering student at **Aligarh Muslim University** who already ships 
     </td>
     <td width="50%" valign="top">
       <h3>🗳️ Evote</h3>
-      <p><b>Tamper-resistant blockchain voting system</b> using Solidity smart contracts and an immutable ledger, with a Flutter front end.</p>
+      <p><b>Tamper-resistant blockchain voting system</b> built on Solidity smart contracts and an immutable ledger, with a Flutter front end.</p>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
       <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
       <br/><a href="https://github.com/urjitupadhya/online_voting_system">🔗 Source Code</a>
@@ -137,7 +152,7 @@ Computer Engineering student at **Aligarh Muslim University** who already ships 
   </tr>
 </table>
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🏆 Achievements
 
@@ -146,7 +161,7 @@ Computer Engineering student at **Aligarh Muslim University** who already ships 
 - ☁️ **Oracle Cloud Infrastructure (OCI) AI Foundations Associate** certified
 - 🎤 **Workshop Lead**, running Flutter workshops at GDGC ZHCET
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 📊 GitHub Stats
 
@@ -166,27 +181,25 @@ Computer Engineering student at **Aligarh Muslim University** who already ships 
 
 <br/>
 
-## 🐍 Contribution Snake
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/urjitupadhya/urjitupadhya/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/urjitupadhya/urjitupadhya/output/github-snake.svg"/>
-    <img alt="snake animation" src="https://raw.githubusercontent.com/urjitupadhya/urjitupadhya/output/github-snake.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/urjitupadhya/urjitupadhya/output/github-snake.svg"/>
   </picture>
 </div>
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🎯 Currently
 
 - 🏗️ Building enterprise ERP modules and multi-tenant SaaS at **GoStride Ventures**
 - 🤖 Going deeper into **LLM integration**, applied ML and system design
 - ⛓️ Exploring **Web3 security** and smart-contract patterns
-- 🧠 Practicing **DSA** daily on LeetCode
+- 🧠 Practicing **DSA** regularly
 - 🔜 Open-source contributions in Flutter and FastAPI
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🤝 Let's Work Together
 
@@ -198,17 +211,6 @@ I'm open to **Graduate Trainee and SDE roles**, plus collaborations on AI, ERP a
   <a href="https://linkedin.com/in/urjit-upadhyay-049428236"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
-<br/>
-
-```javascript
-while (alive) {
-  code();
-  learn();
-  solve();
-  ship();
-}
-```
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00d4ff,50:8b5cf6,100:0ea5e9&section=footer" alt="footer"/>
+  <img src="assets/footer.svg" width="100%" alt="Let's build something great together"/>
 </div>
