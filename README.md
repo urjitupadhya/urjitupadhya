@@ -12,7 +12,7 @@
   <a href="https://urjit-upadhyay-portfolio-updated-d5.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/urjit-upadhyay-049428236"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:urjitupadhyayuu@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=urjitupadhya&style=for-the-badge&color=00D4FF&label=Profile+Views" alt="Views"/>
+  <img src="https://hits.sh/github.com/urjitupadhya.svg?style=for-the-badge&label=Profile+Views&color=00D4FF&labelColor=1f2937" alt="Views"/>
 </div>
 
 <br/>

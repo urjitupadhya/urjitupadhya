@@ -15,7 +15,7 @@
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M40 0H0V40" fill="none" stroke="#1f2a37" stroke-width="1"/>
     </pattern>
-    <path id="flow" d="M700 230 C765 230 765 110 830 110 C895 110 895 230 960 230 C1025 230 1025 110 1090 110 C1140 110 1140 230 1190 230"/>
+    <path id="flow" d="M640 230 C695 230 695 110 750 110 C805 110 805 230 860 230 C915 230 915 110 970 110 C1025 110 1025 230 1080 230"/>
   </defs>
   <style>
     .sans { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
@@ -38,40 +38,40 @@
   <text x="60" y="232" class="sans" font-size="17" fill="#9AA7B4">shipped for teams in India, UAE and Canada.</text>
 
   <!-- Proof strip -->
-  <line x1="60" y1="270" x2="640" y2="270" stroke="#243140" stroke-width="1"/>
+  <line x1="60" y1="270" x2="850" y2="270" stroke="#243140" stroke-width="1"/>
   <circle cx="68" cy="302" r="4" fill="#00D4FF"/>
-  <text x="82" y="307" class="sans" font-size="15" fill="#C9D1D9">7x hackathon winner</text>
-  <circle cx="276" cy="302" r="4" fill="#00D4FF"/>
-  <text x="290" y="307" class="sans" font-size="15" fill="#C9D1D9">F1 0.943 on 188 real PRs</text>
-  <circle cx="500" cy="302" r="4" fill="#00D4FF"/>
-  <text x="514" y="307" class="sans" font-size="15" fill="#C9D1D9">72 hours, idea to demo</text>
-  <circle cx="660" cy="302" r="4" fill="#C9A96E"/>
-  <text x="674" y="307" class="sans" font-size="15" fill="#C9D1D9">Agentic AI builder</text>
+  <text x="80" y="307" class="sans" font-size="14" fill="#C9D1D9">7x hackathon winner</text>
+  <circle cx="255" cy="302" r="4" fill="#00D4FF"/>
+  <text x="267" y="307" class="sans" font-size="14" fill="#C9D1D9">F1 0.943 on 188 real PRs</text>
+  <circle cx="480" cy="302" r="4" fill="#00D4FF"/>
+  <text x="492" y="307" class="sans" font-size="14" fill="#C9D1D9">72 hours, idea to demo</text>
+  <circle cx="685" cy="302" r="4" fill="#C9A96E"/>
+  <text x="697" y="307" class="sans" font-size="14" fill="#E8D3A2">Agentic AI builder</text>
 
-  <!-- Stack pipeline: one path through the four things I build with -->
+  <!-- Stack pipeline: five nodes with even spacing -->
   <use href="#flow" fill="none" stroke="#1d2b3a" stroke-width="3"/>
   <use href="#flow" fill="none" stroke="url(#trace)" stroke-width="3" stroke-linecap="round" class="dash"/>
 
   <g>
-    <circle cx="700" cy="230" r="16" fill="#00D4FF" class="pulse"/>
-    <circle cx="700" cy="230" r="8" fill="#0D1117" stroke="#00D4FF" stroke-width="3"/>
-    <text x="700" y="268" text-anchor="middle" class="mono" font-size="15" fill="#E6EDF3">FastAPI</text>
+    <circle cx="640" cy="230" r="16" fill="#00D4FF" class="pulse"/>
+    <circle cx="640" cy="230" r="8" fill="#0D1117" stroke="#00D4FF" stroke-width="3"/>
+    <text x="640" y="268" text-anchor="middle" class="mono" font-size="15" fill="#E6EDF3">FastAPI</text>
 
-    <circle cx="830" cy="110" r="16" fill="#00D4FF" class="pulse" style="animation-delay:.5s"/>
-    <circle cx="830" cy="110" r="8" fill="#0D1117" stroke="#38bdf8" stroke-width="3"/>
-    <text x="830" y="84" text-anchor="middle" class="mono" font-size="15" fill="#E6EDF3">React</text>
+    <circle cx="750" cy="110" r="16" fill="#00D4FF" class="pulse" style="animation-delay:.5s"/>
+    <circle cx="750" cy="110" r="8" fill="#0D1117" stroke="#38bdf8" stroke-width="3"/>
+    <text x="750" y="84" text-anchor="middle" class="mono" font-size="15" fill="#E6EDF3">React</text>
 
-    <circle cx="960" cy="230" r="16" fill="#8b5cf6" class="pulse" style="animation-delay:1s"/>
-    <circle cx="960" cy="230" r="8" fill="#0D1117" stroke="#a78bfa" stroke-width="3"/>
-    <text x="960" y="268" text-anchor="middle" class="mono" font-size="15" fill="#E6EDF3">Flutter</text>
+    <circle cx="860" cy="230" r="16" fill="#8b5cf6" class="pulse" style="animation-delay:1s"/>
+    <circle cx="860" cy="230" r="8" fill="#0D1117" stroke="#a78bfa" stroke-width="3"/>
+    <text x="860" y="268" text-anchor="middle" class="mono" font-size="15" fill="#E6EDF3">Flutter</text>
 
-    <circle cx="1090" cy="110" r="16" fill="#8b5cf6" class="pulse" style="animation-delay:1.5s"/>
-    <circle cx="1090" cy="110" r="8" fill="#0D1117" stroke="#a78bfa" stroke-width="3"/>
-    <text x="1090" y="84" text-anchor="middle" class="mono" font-size="15" fill="#E6EDF3">Solidity</text>
+    <circle cx="970" cy="110" r="16" fill="#8b5cf6" class="pulse" style="animation-delay:1.5s"/>
+    <circle cx="970" cy="110" r="8" fill="#0D1117" stroke="#a78bfa" stroke-width="3"/>
+    <text x="970" y="84" text-anchor="middle" class="mono" font-size="15" fill="#E6EDF3">Solidity</text>
 
-    <circle cx="1190" cy="230" r="18" fill="#C9A96E" class="pulse" style="animation-delay:2s"/>
-    <circle cx="1190" cy="230" r="9" fill="#0D1117" stroke="#C9A96E" stroke-width="3"/>
-    <text x="1190" y="268" text-anchor="middle" class="mono" font-size="15" fill="#E8D3A2">Agentic AI</text>
+    <circle cx="1080" cy="230" r="18" fill="#C9A96E" class="pulse" style="animation-delay:2s"/>
+    <circle cx="1080" cy="230" r="9" fill="#0D1117" stroke="#C9A96E" stroke-width="3"/>
+    <text x="1080" y="268" text-anchor="middle" class="mono" font-size="15" fill="#E8D3A2">Agentic AI</text>
   </g>
 
   <!-- Signal travelling along the path -->
