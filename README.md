@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=900&height=50&lines=Software+Developer+%40+GoStride+Ventures;7x+Hackathon+Winner;FastAPI+%7C+React+%7C+Flutter+%7C+Solidity;Open+to+Graduate+Trainee+%2F+SDE+roles" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=900&height=50&lines=Software+Developer+%40+GoStride+Ventures;7x+Hackathon+Winner;Agentic+AI+%7C+LLM+Integration+%7C+GenAI;FastAPI+%7C+React+%7C+Flutter+%7C+Solidity;Open+to+Graduate+Trainee+%2F+SDE+roles" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -90,16 +90,23 @@ I'm a Computer Engineering student who already ships production software for tea
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,vercel&theme=dark" alt="frontend"/>
 
-**Tools, Cloud and Web3**
+**Tools, Cloud, AI and Web3**
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,solidity&theme=dark" alt="tools"/>
+
+**Agentic AI**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Agentic Systems](https://img.shields.io/badge/Agentic%20Systems-C9A96E?style=for-the-badge&logoColor=black)
 
 </div>
 
 <details>
 <summary><b>📚 Full skill breakdown</b></summary>
 
-- **AI / ML:** regression, classification, predictive analytics, feature analysis, Generative AI, LLM integration
+- **AI / ML / Agentic AI:** regression, classification, predictive analytics, feature analysis, Generative AI, LLM integration, agentic systems, tool-use, multi-step reasoning
 - **Backend:** REST APIs, microservices, multi-tenant architecture, database design
 - **Quality:** unit and integration testing, QA, debugging, technical documentation
 - **CS fundamentals:** DSA, OOP, complexity analysis, SDLC
@@ -197,8 +204,8 @@ I'm a Computer Engineering student who already ships production software for tea
 
 ## 🎯 Currently
 
+- 🤖 Building and exploring **Agentic AI** systems — tool-use, multi-step reasoning and LLM pipelines
 - 🏗️ Building enterprise ERP modules and multi-tenant SaaS at **GoStride Ventures**
-- 🤖 Going deeper into **LLM integration**, applied ML and system design
 - ⛓️ Exploring **Web3 security** and smart-contract patterns
 - 🧠 Practicing **DSA** regularly
 - 🔜 Open-source contributions in Flutter and FastAPI
