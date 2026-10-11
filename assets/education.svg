@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Education: B.Tech in Computer Engineering, Z.H. College of Engineering and Technology, Aligarh Muslim University, CPI 8.35 out of 10. Diploma in Computer Engineering, University Polytechnic, Aligarh Muslim University, CGPA 9.97 out of 10, University Rank 2. Recognition: seven hackathon wins, 1st place at Slop Scan, 1st place and $1,000 at Dreamware, Oracle Cloud Infrastructure AI Foundations Associate, Workshop Lead for Flutter at GDGC ZHCET.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080808"/><stop offset="1" stop-color="#151515"/></linearGradient>
+  </defs>
+
+  <!-- education card -->
+  <rect x="0.5" y="0.5" width="589" height="239" rx="14" fill="url(#bg)" stroke="#2A2A2A"/>
+  <rect x="28" y="0.5" width="70" height="1.5" fill="#C9A96E"/>
+  <text x="28" y="38" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="12" letter-spacing="2" fill="#C9A96E">EDUCATION</text>
+
+  <text x="28" y="76" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#F5F5F5">B.Tech, Computer Engineering</text>
+  <text x="28" y="98" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#A3A3A3">Z.H. College of Engineering &amp; Technology, Aligarh Muslim University</text>
+  <text x="28" y="120" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="13" fill="#E8D3A2">CPI 8.35 / 10</text>
+
+  <line x1="28" y1="140" x2="562" y2="140" stroke="#242424"/>
+
+  <text x="28" y="172" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#F5F5F5">Diploma, Computer Engineering</text>
+  <text x="28" y="194" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#A3A3A3">University Polytechnic, Aligarh Muslim University</text>
+  <text x="28" y="216" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="13" fill="#E8D3A2">CGPA 9.97 / 10  &#183;  University Rank 2</text>
+
+  <!-- recognition card -->
+  <rect x="610.5" y="0.5" width="589" height="239" rx="14" fill="url(#bg)" stroke="#2A2A2A"/>
+  <rect x="638" y="0.5" width="70" height="1.5" fill="#C9A96E"/>
+  <text x="638" y="38" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="12" letter-spacing="2" fill="#C9A96E">RECOGNITION</text>
+
+  <g fill="#C9A96E">
+    <circle cx="644" cy="76" r="3"/>
+    <circle cx="644" cy="108" r="3"/>
+    <circle cx="644" cy="140" r="3"/>
+    <circle cx="644" cy="172" r="3"/>
+    <circle cx="644" cy="204" r="3"/>
+  </g>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#EDEDED">
+    <text x="662" y="81">Seven hackathon wins</text>
+    <text x="662" y="113">1st place, Slop Scan Hackathon</text>
+    <text x="662" y="145">1st place and $1,000 prize, Dreamware</text>
+    <text x="662" y="177">Oracle Cloud Infrastructure (OCI) AI Foundations Associate</text>
+    <text x="662" y="209">Workshop Lead for Flutter, GDGC ZHCET</text>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Skills. Languages: Python, TypeScript, JavaScript, Java, Dart, C, C++, SQL. Backend and databases: FastAPI, Node.js, Express, PostgreSQL, MongoDB, Firebase. Frontend and mobile: React, Next.js, Tailwind CSS, Flutter. Infrastructure and tools: Docker, Git, GitHub, Postman, Vercel. AI/ML: regression, classification, predictive analytics, Generative AI, LLM integration. Fundamentals: data structures and algorithms, OOP, complexity analysis, SDLC.">
+  <g stroke="#242424">
+    <line x1="48" y1="50" x2="1152" y2="50"/>
+    <line x1="48" y1="100" x2="1152" y2="100"/>
+    <line x1="48" y1="150" x2="1152" y2="150"/>
+    <line x1="48" y1="200" x2="1152" y2="200"/>
+    <line x1="48" y1="250" x2="1152" y2="250"/>
+  </g>
+  <g font-family="Consolas, Menlo, 'Courier New', monospace" font-size="12" letter-spacing="1.5" fill="#C9A96E">
+    <text x="48" y="34">LANGUAGES</text>
+    <text x="48" y="84">BACKEND &amp; DATABASES</text>
+    <text x="48" y="134">FRONTEND &amp; MOBILE</text>
+    <text x="48" y="184">INFRASTRUCTURE &amp; TOOLS</text>
+    <text x="48" y="234">AI / ML</text>
+    <text x="48" y="284">FUNDAMENTALS</text>
+  </g>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#EDEDED">
+    <text x="330" y="34">Python  &#183;  TypeScript  &#183;  JavaScript  &#183;  Java  &#183;  Dart  &#183;  C  &#183;  C++  &#183;  SQL</text>
+    <text x="330" y="84">FastAPI  &#183;  Node.js  &#183;  Express  &#183;  PostgreSQL  &#183;  MongoDB  &#183;  Firebase</text>
+    <text x="330" y="134">React  &#183;  Next.js  &#183;  Tailwind CSS  &#183;  Flutter</text>
+    <text x="330" y="184">Docker  &#183;  Git  &#183;  GitHub  &#183;  Postman  &#183;  Vercel</text>
+    <text x="330" y="234">Regression  &#183;  Classification  &#183;  Predictive analytics  &#183;  Generative AI  &#183;  LLM integration</text>
+    <text x="330" y="284">DSA  &#183;  OOP  &#183;  Complexity analysis  &#183;  SDLC</text>
+  </g>
+</svg>
