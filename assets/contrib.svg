@@ -379,5 +379,6 @@
   <rect x="720" y="116" width="11" height="11" rx="2" fill="#3B2A0E"><title>2026-10-31</title></rect>
   <rect x="734" y="32" width="11" height="11" rx="2" fill="#161B22"><title>2026-11-01</title></rect>
   <rect x="734" y="46" width="11" height="11" rx="2" fill="#161B22"><title>2026-11-02</title></rect>
-  <rect x="734" y="60" width="11" height="11" rx="2" fill="#161B22"><title>2026-11-03</title></rect>
+  <rect x="734" y="60" width="11" height="11" rx="2" fill="#3B2A0E"><title>2026-11-03</title></rect>
+  <rect x="734" y="74" width="11" height="11" rx="2" fill="#3B2A0E"><title>2026-11-04</title></rect>
 </svg>
